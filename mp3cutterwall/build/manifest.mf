@@ -1,0 +1,7 @@
+MIDlet-1: MP3Cutter,/icon.png,MP3Cutter
+MIDlet-Permissions: javax.microedition.io.Connector.file.read, javax.microedition.io.Connector.file.write
+MIDlet-Vendor: Vendorvu van tuong
+MIDlet-Name: MP3Cutter
+MIDlet-Version: 1.1
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
